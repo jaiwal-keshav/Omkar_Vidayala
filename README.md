@@ -2,6 +2,8 @@
 
 *Project Name:* Omkar Vidyalay Website
 
+*Live Link:* https://omkarvidyalaya.org/
+
 *Description:* This website serves as the online presence for Omkar Vidyalay, a school located in Aurangabad, India. It provides information to parents, prospective students, and the community about the school's mission, programs, and facilities.
 
 *Features:*
