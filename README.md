@@ -36,3 +36,6 @@ This website is deployed on a web server.  The specific deployment instructions 
 *Contact:*
 
 For any questions or feedback regarding the Omkar Vidyalay website, please contact jaiwalkeshav12@gmail.com
+
+
+**IMPORTANT :** **The code has not been uploaded due the client's policy...**
