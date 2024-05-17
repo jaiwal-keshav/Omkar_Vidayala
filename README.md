@@ -18,19 +18,15 @@
 
 * HTML
 * CSS
-* (Optional) Content Management System (CMS)
-
-*Setup Instructions:*
-
-1. (If using a CMS) Install the chosen CMS on your web server.
-2. Clone or download the website files into your CMS or web server directory.
-3. Configure the CMS settings (if applicable) according to your needs.
-4. Update the website content (text, images, etc.) as needed.
-5. (Optional)  Customize the CSS styles for further design modifications.
+* PHP
+* JavaScript
+* MySQL
+* SQL
+* PHP Session
 
 *Deployment:*
 
-This website is designed to be deployed on a web server.  The specific deployment instructions will vary depending on your hosting provider.
+This website is deployed on a web server.  The specific deployment instructions will vary depending on your hosting provider.
 
 *Additional Notes:*
 
@@ -39,4 +35,4 @@ This website is designed to be deployed on a web server.  The specific deploymen
 
 *Contact:*
 
-For any questions or feedback regarding the Omkar Vidyalay website, please contact the school administration using the contact information provided on the website.
+For any questions or feedback regarding the Omkar Vidyalay website, please contact jaiwalkeshav12@gmail.com
