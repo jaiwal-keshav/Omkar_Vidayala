@@ -1,6 +1,6 @@
 ## Omkar Vidyalay Website - README
 
-*Project Name:* Omkar Vidyalay Website
+*Project Name:* Omkar Vidyalaya Website
 
 *Live Link:* https://omkarvidyalaya.org/
 
